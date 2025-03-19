@@ -1,6 +1,6 @@
 ## Bicycle
 
-![Uploading image.png…]()
+
 
 
 Adventure Works Project
